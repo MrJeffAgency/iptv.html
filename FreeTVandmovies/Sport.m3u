@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="General",Az Star TV (1080p)
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Netflix tv.us" tvg-logo="https://i.imgur.com/Z2Tv2XS.png"
 group-title="Wednesday",Series.net 1 (720p)
 https://31741232.cloudvideo.tv/hls/,mfqjxvqzqdo6sr7qw6we5oqy5hxk5olaw6gx3yokc7bf472pzxb5wzmh7wlq,.urlset/master.m3u8
