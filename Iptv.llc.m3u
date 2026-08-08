@@ -1,7 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AfricaTV1" tvg-name="Africa TV 1" tvg-logo="https://i.ibb.co/ccyPnTwP/Africa-TV.jpg" group-title="Entertainment",Africa TV 1
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 #EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Undefined",1+1 (1080p)
 https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
-#EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-logo="https://i.imgur.com/tHVc8on.png" group-title="Sports",1+1 Спорт (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-logo="https://i.ibb.co/cSrzKbFj/file-00000000ec78820aa9134ef604db659f.png" group-title="Sports",1+1 Спорт (720p) [Not 24/7]
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Undefined",1-2-3 TV (270p)
 https://123tv-mx1.flex-cdn.net/index.m3u8
